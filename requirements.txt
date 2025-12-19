@@ -1,0 +1,9 @@
+customtkinter
+pandas
+selenium
+webdriver-manager
+beautifulsoup4
+Pillow
+openpyxl
+packaging
+requests
