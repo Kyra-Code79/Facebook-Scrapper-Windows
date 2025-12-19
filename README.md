@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo.png" alt="Logo Project" width="120" height="120">
   
-  # FB Marketplace Scraper Indonesia V2
+  # FB Marketplace Scraper Indonesia V1
   
   **Tools Desktop Automation berbasis Python untuk mengambil data produk dari Facebook Marketplace secara massal.**
   
